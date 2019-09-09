@@ -1,0 +1,26 @@
+{
+  "name": "js-data-structures",
+  "version": "0.0.1",
+  "description": "common data structures",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-zhang/js-data-structures.git"
+  },
+  "keywords": [
+    "data",
+    "structures"
+  ],
+  "author": "Patrick Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrick-zhang/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/patrick-zhang/js-data-structures#readme"
+}
